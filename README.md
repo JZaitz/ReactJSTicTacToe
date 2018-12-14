@@ -1,1 +1,1 @@
-React JS Tic Tac Toe 
+React JS Tic Tac Toe coding exercise. 
